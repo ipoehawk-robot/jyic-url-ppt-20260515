@@ -1,0 +1,43 @@
+# 勁園相關網址 HTML PPT 鏈結索引
+> 每一列：投影片鏈結｜網站主題｜原始網址
+- [01. 勁園科教集團主站](https://hanassitant-cloud.github.io/jarvistest/jyic-url-ppt-20260515/#s01-勁園科教集團主站)｜集團入口 / 品牌總站｜https://jyic.net/
+- [02. 勁園科教 Linktree](https://hanassitant-cloud.github.io/jarvistest/jyic-url-ppt-20260515/#s02-勁園科教-Linktree)｜社群導流頁｜https://linktr.ee/jyic.net
+- [03. Facebook 勁園科教](https://hanassitant-cloud.github.io/jarvistest/jyic-url-ppt-20260515/#s03-Facebook-勁園科教)｜主粉絲頁｜https://www.facebook.com/profile.php?id=61562421563173
+- [04. Instagram @ipoetech](https://hanassitant-cloud.github.io/jarvistest/jyic-url-ppt-20260515/#s04-Instagram-ipoetech)｜主視覺社群｜https://www.instagram.com/ipoetech/
+- [05. TikTok @jyic.net](https://hanassitant-cloud.github.io/jarvistest/jyic-url-ppt-20260515/#s05-TikTok-jyic-net)｜短影音社群｜https://www.tiktok.com/@jyic.net
+- [06. YouTube 勁園科教 @jyic1997](https://hanassitant-cloud.github.io/jarvistest/jyic-url-ppt-20260515/#s06-YouTube-勁園科教-jyic1997)｜影音主頻道｜https://www.youtube.com/@jyic1997
+- [07. YouTube 勁園科教舊頻道](https://hanassitant-cloud.github.io/jarvistest/jyic-url-ppt-20260515/#s07-YouTube-勁園科教舊頻道)｜影音頻道舊連結｜https://www.youtube.com/channel/UC4bqKUgMXitr1dGvBNVJZWw
+- [08. 台科大圖書](https://hanassitant-cloud.github.io/jarvistest/jyic-url-ppt-20260515/#s08-台科大圖書)｜出版官方網站｜https://tkdbook.jyic.net/
+- [09. Facebook 台科大圖書](https://hanassitant-cloud.github.io/jarvistest/jyic-url-ppt-20260515/#s09-Facebook-台科大圖書)｜出版粉絲頁｜https://www.facebook.com/TKDBOOKS1997
+- [10. YouTube 台科大圖書](https://hanassitant-cloud.github.io/jarvistest/jyic-url-ppt-20260515/#s10-YouTube-台科大圖書)｜出版影音頻道｜https://www.youtube.com/user/TIKEDBOOKS
+- [11. MOSME 行動學習一點通](https://hanassitant-cloud.github.io/jarvistest/jyic-url-ppt-20260515/#s11-MOSME-行動學習一點通)｜學習平台主站｜https://www.mosme.net/
+- [12. MOSME 分類頁](https://hanassitant-cloud.github.io/jarvistest/jyic-url-ppt-20260515/#s12-MOSME-分類頁)｜課程/題庫分類入口｜https://mosme.net/mosme/bigCate
+- [13. 勁園寶 JYBao](https://hanassitant-cloud.github.io/jarvistest/jyic-url-ppt-20260515/#s13-勁園寶-JYBao)｜會員/服務平台｜https://bao.ipoe.cc/
+- [14. Facebook 勁園 AI / JYMOSME](https://hanassitant-cloud.github.io/jarvistest/jyic-url-ppt-20260515/#s14-Facebook-勁園-AI-JYMOSME)｜MOSME/AI國考粉絲頁｜https://www.facebook.com/JYMOSME
+- [15. Facebook JYMOSMESKILL](https://hanassitant-cloud.github.io/jarvistest/jyic-url-ppt-20260515/#s15-Facebook-JYMOSMESKILL)｜MOSME技能/學習粉絲頁｜https://www.facebook.com/JYMOSMESKILL
+- [16. 艾葆國際認證中心](https://hanassitant-cloud.github.io/jarvistest/jyic-url-ppt-20260515/#s16-艾葆國際認證中心)｜認證官方網站｜https://ipoetech.jyic.net/
+- [17. IPOE Tech Linktree](https://hanassitant-cloud.github.io/jarvistest/jyic-url-ppt-20260515/#s17-IPOE-Tech-Linktree)｜認證導流頁｜https://linktr.ee/ipoetech
+- [18. Facebook 艾葆國際認證](https://hanassitant-cloud.github.io/jarvistest/jyic-url-ppt-20260515/#s18-Facebook-艾葆國際認證)｜認證粉絲頁｜https://www.facebook.com/ipoecertificate
+- [19. LINE 艾葆短連結](https://hanassitant-cloud.github.io/jarvistest/jyic-url-ppt-20260515/#s19-LINE-艾葆短連結)｜LINE官方帳號短鏈｜https://lin.ee/HPOlaUB
+- [20. LINE @024cymgk](https://hanassitant-cloud.github.io/jarvistest/jyic-url-ppt-20260515/#s20-LINE-024cymgk)｜LINE官方帳號ID頁｜https://line.me/R/ti/p/@024cymgk
+- [21. TikTok @ipoe_tech](https://hanassitant-cloud.github.io/jarvistest/jyic-url-ppt-20260515/#s21-TikTok-ipoe-tech)｜認證/課程短影音｜https://www.tiktok.com/@ipoe_tech
+- [22. YouTube @ipoe2987](https://hanassitant-cloud.github.io/jarvistest/jyic-url-ppt-20260515/#s22-YouTube-ipoe2987)｜IPOE影音頻道｜https://www.youtube.com/@ipoe2987
+- [23. Facebook IPOE社團](https://hanassitant-cloud.github.io/jarvistest/jyic-url-ppt-20260515/#s23-Facebook-IPOE社團)｜社群互動社團｜https://www.facebook.com/groups/483020008717588/
+- [24. IPOE 艾葆國際學校](https://hanassitant-cloud.github.io/jarvistest/jyic-url-ppt-20260515/#s24-IPOE-艾葆國際學校)｜課程平台｜https://www.ipoe.cc/
+- [25. Facebook IPOE艾葆國際學校](https://hanassitant-cloud.github.io/jarvistest/jyic-url-ppt-20260515/#s25-Facebook-IPOE艾葆國際學校)｜課程粉絲頁｜https://www.facebook.com/ipoeschool/
+- [26. IPOE 艾葆科技誌](https://hanassitant-cloud.github.io/jarvistest/jyic-url-ppt-20260515/#s26-IPOE-艾葆科技誌)｜內容媒體網站｜https://magazine.ipoe.cc/
+- [27. 艾葆科技誌 YouTube](https://hanassitant-cloud.github.io/jarvistest/jyic-url-ppt-20260515/#s27-艾葆科技誌-YouTube)｜科技誌影音頻道｜https://www.youtube.com/channel/UC2JpEVWvOEl-LyVZtGZrf7Q/featured
+- [28. KKBOX Podcast 艾葆會客室](https://hanassitant-cloud.github.io/jarvistest/jyic-url-ppt-20260515/#s28-KKBOX-Podcast-艾葆會客室)｜Podcast頻道｜https://podcast.kkbox.com/tw/channel/1YYYB6-W18RLXMA8uF
+- [29. ipoemaker 紅動創新](https://hanassitant-cloud.github.io/jarvistest/jyic-url-ppt-20260515/#s29-ipoemaker-紅動創新)｜創客/機器人網站｜https://ipoemaker.jyic.net/
+- [30. Facebook iPOEMAKER](https://hanassitant-cloud.github.io/jarvistest/jyic-url-ppt-20260515/#s30-Facebook-iPOEMAKER)｜創客粉絲頁｜https://www.facebook.com/iPOEMAKER/
+- [31. 勁園活動網](https://hanassitant-cloud.github.io/jarvistest/jyic-url-ppt-20260515/#s31-勁園活動網)｜活動報名系統｜https://spcrq.ipoe.cc/
+- [32. ZTC 數位內容與專題中心](https://hanassitant-cloud.github.io/jarvistest/jyic-url-ppt-20260515/#s32-ZTC-數位內容與專題中心)｜專題/作品平台｜https://ztc.ipoe.cc/
+- [33. GTC 全民科技力診斷平台](https://hanassitant-cloud.github.io/jarvistest/jyic-url-ppt-20260515/#s33-GTC-全民科技力診斷平台)｜能力診斷平台｜https://gtc.ipoe.cc/
+- [34. PSC 專業認證平台](https://hanassitant-cloud.github.io/jarvistest/jyic-url-ppt-20260515/#s34-PSC-專業認證平台)｜專業認證系統｜https://psc.ipoe.cc/
+- [35. MLC 創客學習力歷程平台](https://hanassitant-cloud.github.io/jarvistest/jyic-url-ppt-20260515/#s35-MLC-創客學習力歷程平台)｜學習歷程平台｜https://mlc.ipoe.cc/
+- [36. NSET / MOSME](https://hanassitant-cloud.github.io/jarvistest/jyic-url-ppt-20260515/#s36-NSET-MOSME)｜統測/測驗相關子站｜https://nset.mosme.net/
+- [37. DEPL / MOSME](https://hanassitant-cloud.github.io/jarvistest/jyic-url-ppt-20260515/#s37-DEPL-MOSME)｜MOSME相關子站｜https://depl.mosme.net/
+- [38. PLC / MOSME](https://hanassitant-cloud.github.io/jarvistest/jyic-url-ppt-20260515/#s38-PLC-MOSME)｜MOSME相關子站｜http://plc.mosme.net/
+- [39. Verification IPOE](https://hanassitant-cloud.github.io/jarvistest/jyic-url-ppt-20260515/#s39-Verification-IPOE)｜驗證相關系統｜http://verification.ipoe.cc/
+- [40. System JYIC](https://hanassitant-cloud.github.io/jarvistest/jyic-url-ppt-20260515/#s40-System-JYIC)｜內部/系統相關｜http://system.jyic.net/
+- [41. X / Twitter @JYiCNet](https://hanassitant-cloud.github.io/jarvistest/jyic-url-ppt-20260515/#s41-X-Twitter-JYiCNet)｜待確認社群｜https://x.com/JYiCNet
