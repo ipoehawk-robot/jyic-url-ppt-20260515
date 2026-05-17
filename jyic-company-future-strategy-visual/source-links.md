@@ -1,43 +1,43 @@
-# 勁園對外網站列表
+# 41 個勁園對外入口完整底稿
 
-- 勁園科教集團主站｜集團入口 / 品牌總站｜https://jyic.net/
-- 勁園科教 Linktree｜社群導流頁｜https://linktr.ee/jyic.net
-- Facebook 勁園科教｜主粉絲頁｜https://www.facebook.com/profile.php?id=61562421563173
-- Instagram @ipoetech｜主視覺社群｜https://www.instagram.com/ipoetech/
-- TikTok @jyic.net｜短影音社群｜https://www.tiktok.com/@jyic.net
-- YouTube 勁園科教 @jyic1997｜影音主頻道｜https://www.youtube.com/@jyic1997
-- YouTube 勁園科教舊頻道｜影音頻道舊連結｜https://www.youtube.com/channel/UC4bqKUgMXitr1dGvBNVJZWw
-- 台科大圖書｜出版官方網站｜https://tkdbook.jyic.net/
-- Facebook 台科大圖書｜出版粉絲頁｜https://www.facebook.com/TKDBOOKS1997
-- YouTube 台科大圖書｜出版影音頻道｜https://www.youtube.com/user/TIKEDBOOKS
-- MOSME 行動學習一點通｜學習平台主站｜https://www.mosme.net/
-- MOSME 分類頁｜課程/題庫分類入口｜https://mosme.net/mosme/bigCate
-- 勁園寶 JYBao｜會員/服務平台｜https://bao.ipoe.cc/
-- Facebook 勁園 AI / JYMOSME｜MOSME/AI國考粉絲頁｜https://www.facebook.com/JYMOSME
-- Facebook JYMOSMESKILL｜MOSME技能/學習粉絲頁｜https://www.facebook.com/JYMOSMESKILL
-- 艾葆國際認證中心｜認證官方網站｜https://ipoetech.jyic.net/
-- IPOE Tech Linktree｜認證導流頁｜https://linktr.ee/ipoetech
-- Facebook 艾葆國際認證｜認證粉絲頁｜https://www.facebook.com/ipoecertificate
-- LINE 艾葆短連結｜LINE官方帳號短鏈｜https://lin.ee/HPOlaUB
-- LINE @024cymgk｜LINE官方帳號ID頁｜https://line.me/R/ti/p/@024cymgk
-- TikTok @ipoe_tech｜認證/課程短影音｜https://www.tiktok.com/@ipoe_tech
-- YouTube @ipoe2987｜IPOE影音頻道｜https://www.youtube.com/@ipoe2987
-- Facebook IPOE社團｜社群互動社團｜https://www.facebook.com/groups/483020008717588/
-- IPOE 艾葆國際學校｜課程平台｜https://www.ipoe.cc/
-- Facebook IPOE艾葆國際學校｜課程粉絲頁｜https://www.facebook.com/ipoeschool/
-- IPOE 艾葆科技誌｜內容媒體網站｜https://magazine.ipoe.cc/
-- 艾葆科技誌 YouTube｜科技誌影音頻道｜https://www.youtube.com/channel/UC2JpEVWvOEl-LyVZtGZrf7Q/featured
-- KKBOX Podcast 艾葆會客室｜Podcast頻道｜https://podcast.kkbox.com/tw/channel/1YYYB6-W18RLXMA8uF
-- ipoemaker 紅動創新｜創客/機器人網站｜https://ipoemaker.jyic.net/
-- Facebook iPOEMAKER｜創客粉絲頁｜https://www.facebook.com/iPOEMAKER/
-- 勁園活動網｜活動報名系統｜https://spcrq.ipoe.cc/
-- ZTC 數位內容與專題中心｜專題/作品平台｜https://ztc.ipoe.cc/
-- GTC 全民科技力診斷平台｜能力診斷平台｜https://gtc.ipoe.cc/
-- PSC 專業認證平台｜專業認證系統｜https://psc.ipoe.cc/
-- MLC 創客學習力歷程平台｜學習歷程平台｜https://mlc.ipoe.cc/
-- NSET / MOSME｜統測/測驗相關子站｜https://nset.mosme.net/
-- DEPL / MOSME｜MOSME相關子站｜https://depl.mosme.net/
-- PLC / MOSME｜MOSME相關子站｜http://plc.mosme.net/
-- Verification IPOE｜驗證相關系統｜http://verification.ipoe.cc/
-- System JYIC｜內部/系統相關｜http://system.jyic.net/
-- X / Twitter @JYiCNet｜待確認社群｜https://x.com/JYiCNet
+01. 勁園科教集團主站｜集團入口 / 品牌總站｜https://jyic.net/
+02. 勁園科教 Linktree｜社群導流頁｜https://linktr.ee/jyic.net
+03. Facebook 勁園科教｜主粉絲頁｜https://www.facebook.com/profile.php?id=61562421563173
+04. Instagram @ipoetech｜主視覺社群｜https://www.instagram.com/ipoetech/
+05. TikTok @jyic.net｜短影音社群｜https://www.tiktok.com/@jyic.net
+06. YouTube 勁園科教 @jyic1997｜影音主頻道｜https://www.youtube.com/@jyic1997
+07. YouTube 勁園科教舊頻道｜影音頻道舊連結｜https://www.youtube.com/channel/UC4bqKUgMXitr1dGvBNVJZWw
+08. 台科大圖書｜出版官方網站｜https://tkdbook.jyic.net/
+09. Facebook 台科大圖書｜出版粉絲頁｜https://www.facebook.com/TKDBOOKS1997
+10. YouTube 台科大圖書｜出版影音頻道｜https://www.youtube.com/user/TIKEDBOOKS
+11. MOSME 行動學習一點通｜學習平台主站｜https://www.mosme.net/
+12. MOSME 分類頁｜課程/題庫分類入口｜https://mosme.net/mosme/bigCate
+13. 勁園寶 JYBao｜會員/服務平台｜https://bao.ipoe.cc/
+14. Facebook 勁園 AI / JYMOSME｜MOSME/AI國考粉絲頁｜https://www.facebook.com/JYMOSME
+15. Facebook JYMOSMESKILL｜MOSME技能/學習粉絲頁｜https://www.facebook.com/JYMOSMESKILL
+16. 艾葆國際認證中心｜認證官方網站｜https://ipoetech.jyic.net/
+17. IPOE Tech Linktree｜認證導流頁｜https://linktr.ee/ipoetech
+18. Facebook 艾葆國際認證｜認證粉絲頁｜https://www.facebook.com/ipoecertificate
+19. LINE 艾葆短連結｜LINE官方帳號短鏈｜https://lin.ee/HPOlaUB
+20. LINE @024cymgk｜LINE官方帳號ID頁｜https://line.me/R/ti/p/@024cymgk
+21. TikTok @ipoe_tech｜認證/課程短影音｜https://www.tiktok.com/@ipoe_tech
+22. YouTube @ipoe2987｜IPOE影音頻道｜https://www.youtube.com/@ipoe2987
+23. Facebook IPOE社團｜社群互動社團｜https://www.facebook.com/groups/483020008717588/
+24. IPOE 艾葆國際學校｜課程平台｜https://www.ipoe.cc/
+25. Facebook IPOE艾葆國際學校｜課程粉絲頁｜https://www.facebook.com/ipoeschool/
+26. IPOE 艾葆科技誌｜內容媒體網站｜https://magazine.ipoe.cc/
+27. 艾葆科技誌 YouTube｜科技誌影音頻道｜https://www.youtube.com/channel/UC2JpEVWvOEl-LyVZtGZrf7Q/featured
+28. KKBOX Podcast 艾葆會客室｜Podcast頻道｜https://podcast.kkbox.com/tw/channel/1YYYB6-W18RLXMA8uF
+29. ipoemaker 紅動創新｜創客/機器人網站｜https://ipoemaker.jyic.net/
+30. Facebook iPOEMAKER｜創客粉絲頁｜https://www.facebook.com/iPOEMAKER/
+31. 勁園活動網｜活動報名系統｜https://spcrq.ipoe.cc/
+32. ZTC 數位內容與專題中心｜專題/作品平台｜https://ztc.ipoe.cc/
+33. GTC 全民科技力診斷平台｜能力診斷平台｜https://gtc.ipoe.cc/
+34. PSC 專業認證平台｜專業認證系統｜https://psc.ipoe.cc/
+35. MLC 創客學習力歷程平台｜學習歷程平台｜https://mlc.ipoe.cc/
+36. NSET / MOSME｜統測/測驗相關子站｜https://nset.mosme.net/
+37. DEPL / MOSME｜MOSME相關子站｜https://depl.mosme.net/
+38. PLC / MOSME｜MOSME相關子站｜http://plc.mosme.net/
+39. Verification IPOE｜驗證相關系統｜http://verification.ipoe.cc/
+40. System JYIC｜內部/系統相關｜http://system.jyic.net/
+41. X / Twitter @JYiCNet｜待確認社群｜https://x.com/JYiCNet
