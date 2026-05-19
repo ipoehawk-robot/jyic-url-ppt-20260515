@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<title>毛天使 / 富盛豐 OEM｜客服問答穩定展示頁</title>
+<style>
+:root{--bg:#07111f;--panel:#fff;--text:#132033;--muted:#667085;--line:#e7edf5;--fur:#ff9f7a;--fsf:#1d9bf0;--ok:#1dbf73}*{box-sizing:border-box}body{margin:0;font-family:-apple-system,BlinkMacSystemFont,'Noto Sans TC','PingFang TC',system-ui,sans-serif;background:radial-gradient(circle at 15% 0,rgba(255,159,122,.28),transparent 34%),radial-gradient(circle at 85% 5%,rgba(29,155,240,.25),transparent 35%),linear-gradient(145deg,#07111f,#0c1930 58%,#07111f);color:white}.wrap{max-width:1180px;margin:0 auto;padding:34px 16px 48px}.top{display:flex;justify-content:space-between;gap:16px;align-items:flex-start;margin-bottom:24px}.badge{display:inline-flex;gap:8px;align-items:center;padding:8px 12px;border:1px solid rgba(255,255,255,.18);border-radius:999px;background:rgba(255,255,255,.08);font-weight:800;font-size:13px;color:#dff7ff}.dot{width:9px;height:9px;border-radius:99px;background:var(--ok);box-shadow:0 0 16px var(--ok)}h1{font-size:clamp(2.1rem,5vw,4.6rem);line-height:.98;margin:12px 0;letter-spacing:-.055em}.lead{max-width:820px;color:#c7d4e5;line-height:1.8;font-size:1.06rem}.grid{display:grid;grid-template-columns:1fr 1fr;gap:18px}.card{background:rgba(255,255,255,.96);color:var(--text);border-radius:28px;overflow:hidden;box-shadow:0 26px 90px rgba(0,0,0,.28);border:1px solid rgba(255,255,255,.7)}.head{padding:22px 22px 16px;display:flex;align-items:center;gap:14px;border-bottom:1px solid var(--line)}.avatar{width:52px;height:52px;border-radius:18px;display:grid;place-items:center;color:white;font-size:26px;font-weight:900}.fur .avatar{background:linear-gradient(135deg,#ff9f7a,#ffd36e)}.fsf .avatar{background:linear-gradient(135deg,#1d9bf0,#43d9ad)}.head h2{margin:0;font-size:1.45rem}.sub{color:var(--muted);font-size:.92rem;margin-top:2px}.msgs{height:420px;overflow:auto;padding:18px;background:linear-gradient(#fbfdff,#f7f9fc);display:flex;flex-direction:column;gap:10px}.msg{max-width:86%;padding:12px 14px;border-radius:17px;line-height:1.62;white-space:pre-wrap}.bot{align-self:flex-start;background:white;border:1px solid var(--line);box-shadow:0 8px 20px rgba(17,34,68,.05)}.user{align-self:flex-end;color:white;font-weight:700}.fur .user{background:linear-gradient(135deg,#ff9f7a,#ff7f9a)}.fsf .user{background:linear-gradient(135deg,#1d9bf0,#24c8a8)}.quick{padding:12px 16px;border-top:1px solid var(--line);display:flex;flex-wrap:wrap;gap:8px;background:white}.quick button{border:1px solid var(--line);background:#f8fbff;color:#26384f;border-radius:999px;padding:8px 10px;cursor:pointer;font-weight:800}.composer{display:flex;gap:9px;padding:14px 16px 18px;border-top:1px solid var(--line);background:white}input{flex:1;border:1px solid var(--line);border-radius:15px;padding:12px 13px;font:inherit;outline:none}button.send{border:0;border-radius:15px;padding:0 16px;color:white;font-weight:900;cursor:pointer}.fur button.send{background:linear-gradient(135deg,#ff9f7a,#ff7f9a)}.fsf button.send{background:linear-gradient(135deg,#1d9bf0,#24c8a8)}.note{margin-top:18px;color:#c7d4e5;font-size:.94rem;line-height:1.7}.links{display:flex;gap:10px;flex-wrap:wrap}.links a{color:#dff7ff;text-decoration:none;border:1px solid rgba(255,255,255,.18);padding:8px 10px;border-radius:12px;background:rgba(255,255,255,.08);font-weight:800}@media(max-width:900px){.grid{grid-template-columns:1fr}.top{display:block}.msgs{height:360px}}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <div class="top">
+    <div>
+      <div class="badge"><span class="dot"></span> Stable Demo｜不依賴 Tunnel 後端</div>
+      <h1>客服問答網頁模組<br>穩定展示頁</h1>
+      <p class="lead">這是下午會議用的穩定備援版：問答邏輯直接內建在網頁中，不依賴後端 API，因此 GitHub Pages 可直接展示。正式版仍可再接回 AI 後端與資料庫。</p>
+    </div>
+    <div class="links">
+      <a href="https://ipoehawk.jarvisclawbot.com/a-agent/furangel-widget-demo/">毛天使後端版</a>
+      <a href="https://ipoehawk.jarvisclawbot.com/a-agent/fsf-oem-widget-demo/">富盛豐後端版</a>
+    </div>
+  </div>
+  <div class="grid">
+    <section class="card fur" data-site="furangel">
+      <div class="head"><div class="avatar">🐾</div><div><h2>毛天使客服助手</h2><div class="sub">商品、訂單、配送、售後與轉人工</div></div></div>
+      <div class="msgs"></div>
+      <div class="quick"><button>商品破損怎麼辦？</button><button>可以查訂單嗎？</button><button>我要轉人工客服</button></div>
+      <form class="composer"><input placeholder="輸入毛天使相關問題…"><button class="send">送出</button></form>
+    </section>
+    <section class="card fsf" data-site="fsf">
+      <div class="head"><div class="avatar">OEM</div><div><h2>富盛豐 OEM 客服</h2><div class="sub">代工、客製、規格、詢價與需求整理</div></div></div>
+      <div class="msgs"></div>
+      <div class="quick"><button>我想問 OEM 報價</button><button>客製產品需要準備什麼？</button><button>可以轉人工窗口嗎？</button></div>
+      <form class="composer"><input placeholder="輸入富盛豐 OEM 相關問題…"><button class="send">送出</button></form>
+    </section>
+  </div>
+  <p class="note">展示建議：先問「商品破損怎麼辦？」與「我想問 OEM 報價」，可呈現 AI 客服如何收斂資訊、避免亂承諾價格/退款，並導向人工窗口。</p>
+</div>
+<script>
+function reply(site,q){const s=q.toLowerCase();
+ if(site==='furangel'){
+  if(/人工|真人|客服|聯絡/.test(q)) return '可以，我先幫您轉人工客服。請留下：\n1. 姓名\n2. 聯絡電話或 Email\n3. 訂單編號（如有）\n4. 想詢問的問題\n客服會再確認後回覆您。';
+  if(/破損|瑕疵|退貨|換貨|退款|少寄|漏寄|錯/.test(q)) return '若商品有問題，我建議先這樣處理：\n\n1. 保留商品、外盒、出貨單與完整包裝。\n2. 拍下問題照片或影片。\n3. 準備訂單編號、購買人姓名與聯絡方式。\n4. 告訴客服希望協助退貨、換貨或補寄。\n\n實際退款或換貨結果需由毛天使客服確認，我不會在這裡直接承諾。';
+  if(/訂單|配送|出貨|物流|到貨/.test(q)) return '訂單與配送問題可以先提供訂單編號、收件人姓名與聯絡電話。若是查詢出貨進度、物流異常或地址修改，需由客服依實際訂單狀態確認。';
+  return '您好，我是毛天使客服助手。可以協助商品問題、訂單配送、售後處理與轉人工客服。若涉及訂單狀態、退款、換貨結果，請留下訂單資訊讓客服確認。';
+ }
+ if(/人工|窗口|客服|聯絡/.test(q)) return '可以，我先幫您整理給富盛豐窗口。請留下：\n1. 公司/姓名\n2. 聯絡電話或 Email\n3. 想做的產品類型\n4. 預估數量與規格\n5. 預計交期';
+ if(/報價|價格|詢價|費用|合約|交期/.test(q)) return 'OEM/ODM 報價需要依產品規格、數量、包裝、打樣需求與交期評估。請先提供：\n\n1. 產品類型或參考樣品\n2. 預估數量\n3. 規格/尺寸/材質/包裝需求\n4. 是否已有設計稿或配方\n5. 預計交期\n\n正式報價與交期需由富盛豐窗口確認。';
+ if(/客製|oem|odm|代工|產品|樣品|規格/.test(s)) return '富盛豐 OEM 可先協助整理客製需求。建議準備產品照片或樣品、規格、數量、包裝方式、目標通路與預計上市時間。資料越完整，窗口越能快速評估可行性。';
+ return '您好，我是富盛豐 OEM 客服助手。可以協助代工、客製、規格整理、詢價前需求收斂與轉人工窗口。正式報價、合約與交期仍需由專人確認。';
+}
+function setup(card){const site=card.dataset.site,msgs=card.querySelector('.msgs'),form=card.querySelector('form'),input=card.querySelector('input');function add(cls,t){const d=document.createElement('div');d.className='msg '+cls;d.textContent=t;msgs.appendChild(d);msgs.scrollTop=msgs.scrollHeight}add('bot',site==='furangel'?'您好，我是毛天使客服助手。請問要查商品、訂單、配送，還是售後問題？':'您好，我是富盛豐 OEM 客服助手。請問想詢問代工、客製、報價，還是轉人工窗口？');form.onsubmit=e=>{e.preventDefault();const q=input.value.trim();if(!q)return;input.value='';add('user',q);setTimeout(()=>add('bot',reply(site,q)),220)};card.querySelectorAll('.quick button').forEach(b=>b.onclick=()=>{input.value=b.textContent;form.requestSubmit()})}
+document.querySelectorAll('.card').forEach(setup);
+</script>
+</body>
+</html>
