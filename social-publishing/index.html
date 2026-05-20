@@ -7,7 +7,28 @@
 <div class="table-wrap"><table><thead><tr><th>文案標題</th><th>文案鏈結</th><th>發文鏈結</th><th>發佈時間</th><th>發布粉絲頁名稱</th><th>平台</th><th>狀態</th><th>風險</th></tr></thead><tbody id="rows"></tbody></table><div id="empty" class="empty" hidden>沒有符合搜尋條件的發佈紀錄。</div></div>
 </div><script>
 const DATA = [
-  {id:'JYMOSME-FB-20260518-001',title:'通勤 10 分鐘，也能開始練初等考題',captionUrl:'posts/JYMOSME-FB-20260518-001/caption.txt',postUrl:'https://www.facebook.com/JYMOSME/posts/122190585296771002',publishedAt:'2026-05-18 22:12',pageName:'勁園AI 國考網',platform:'Facebook',status:'已上架',riskLevel:'綠燈低風險'}
+  {
+    "id": "JYMOSME-FB-20260518-001",
+    "title": "通勤 10 分鐘，也能開始練初等考題",
+    "captionUrl": "posts/JYMOSME-FB-20260518-001/caption.txt",
+    "publishedAt": "2026-05-18 22:12",
+    "pageName": "勁園AI 國考網",
+    "platform": "Facebook",
+    "status": "已上架",
+    "riskLevel": "綠燈低風險",
+    "postUrl": "https://www.facebook.com/JYMOSME/posts/122190585296771002"
+  },
+  {
+    "id": "JYMOSMESKILL-FB-20260520-001",
+    "title": "資訊類技能檢定｜考前用錯題重練補強弱點",
+    "captionUrl": "posts/JYMOSMESKILL-FB-20260520-001/caption.txt",
+    "publishedAt": "2026-05-20 21:00",
+    "pageName": "勁園AI檢定網",
+    "platform": "Facebook",
+    "status": "未完成發布：缺 Facebook 發文/桌面瀏覽器操作工具",
+    "riskLevel": "綠燈低風險",
+    "postUrl": ""
+  }
 ];
 const rows=document.getElementById('rows'), q=document.getElementById('q'), count=document.getElementById('count'), empty=document.getElementById('empty');
 function esc(s){return String(s??'').replace(/[&<>"]/g,m=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[m]))}
