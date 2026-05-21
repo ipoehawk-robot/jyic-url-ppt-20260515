@@ -1,5 +1,58 @@
 [
   {
+    "id": "JYMOSMESKILL-FB-20260521-002",
+    "title": "食品類技能檢定｜考前用題庫抓出學科弱點",
+    "captionUrl": "posts/JYMOSMESKILL-FB-20260521-002/caption.txt",
+    "imageUrl": "posts/JYMOSMESKILL-FB-20260521-002/image.png",
+    "publishedAt": "2026-05-21 21:00",
+    "pageName": "勁園AI檢定網",
+    "platform": "Facebook",
+    "status": "待審未發布：已依最高規則先圖片後文字送 Telegram 勁園🦞 群組審核（image messageId 2662；review messageId 2663）；等待 @Jason_wenwen_bot 明確同意。未取得同意前不得正式發布 Facebook。",
+    "riskLevel": "綠燈低風險",
+    "postUrl": "",
+    "hasImage": true,
+    "note": "Anita prompt 對應：依 Anita 2026-05-20 補充的 MOSME 檢定專區每日發文規則；主題為食品類技能檢定/題庫/錯題重練，不混入國考網內容。圖片已視覺檢查：1:1、完整未裁切、品牌為勁園AI檢定網、無靜園錯字、無日期/價格/保證通過/官方聲明。"
+  },
+  {
+    "id": "JYMOSME-FB-20260521-002",
+    "title": "把錯題變成明天的得分點：國考複習的 3 步驟",
+    "captionUrl": "posts/JYMOSME-FB-20260521-002/caption.txt",
+    "imageUrl": "posts/JYMOSME-FB-20260521-002/image.png",
+    "publishedAt": "2026-05-21 19:07",
+    "pageName": "勁園AI國考網",
+    "platform": "Facebook",
+    "status": "已上架；已取得 photo.php story link；已驗證正確粉專 feed/page 有正文 marker 且同一則貼文圖片可見",
+    "riskLevel": "綠燈低風險",
+    "postUrl": "https://www.facebook.com/photo.php?fbid=122190897698771002",
+    "hasImage": true,
+    "verification": "posts/JYMOSME-FB-20260521-002/verify.json",
+    "note": "2026-05-21 19:07 使用 m.facebook.com/JYMOSME/ 行動版流程：先切換為勁園AI國考網身份，點 Photo 上傳圖片，輸入正文後 POST；發布後回粉專頁驗證「錯題不是失敗」marker，截圖與 DOM 顯示同一則貼文有圖卡可見。"
+  },
+  {
+    "id": "JYMOSMESKILL-FB-20260521-001",
+    "title": "證照檢定不只拚記憶，更要練到會判斷",
+    "captionUrl": "posts/JYMOSMESKILL-FB-20260521-001/caption.txt",
+    "publishedAt": "2026-05-21 11:08",
+    "pageName": "勁園AI 檢定網",
+    "platform": "Facebook",
+    "status": "需立即修正／複驗：原先「已上架」回報不成立；已知原貼文缺圖、圖片以留言補救不等於原貼文圖文並茂；缺實際 permalink；未完成驗收",
+    "riskLevel": "綠燈低風險",
+    "postUrl": "",
+    "note": "2026-05-21 12:37 Jason 回報原貼文缺圖，已留言補圖。後續需同時驗證文字與圖片。 2026-05-21 14:56 Jason 指正：先前回報發文完成屬於自我幻覺，存在錯誤與漏項；未取得 permalink、未同時證明原貼文文字+圖片、未完成驗收前不得標記已完成。"
+  },
+  {
+    "id": "JYMOSME-FB-20260521-001",
+    "title": "AI 時代的國考準備：把零碎時間變成穩定得分",
+    "captionUrl": "posts/JYMOSME-FB-20260521-001/caption.txt",
+    "publishedAt": "2026-05-21 10:51",
+    "pageName": "勁園AI 國考網",
+    "platform": "Facebook",
+    "status": "需複驗：先前僅驗證到文字 marker；缺實際 permalink，圖片是否在同一則原貼文可見證據不足；未完成驗收前不得標記已完成",
+    "riskLevel": "綠燈低風險",
+    "postUrl": "",
+    "note": "2026-05-21 14:56 Jason 指正：先前回報發文完成屬於自我幻覺，存在錯誤與漏項；未取得 permalink、未同時證明原貼文文字+圖片、未完成驗收前不得標記已完成。"
+  },
+  {
     "id": "JYMOSME-FB-20260518-001",
     "title": "通勤 10 分鐘，也能開始練初等考題",
     "captionUrl": "posts/JYMOSME-FB-20260518-001/caption.txt",
@@ -19,6 +72,7 @@
     "platform": "Facebook",
     "status": "未完成發布：缺 Facebook 發文/桌面瀏覽器操作工具",
     "riskLevel": "綠燈低風險",
-    "postUrl": ""
+    "postUrl": "",
+    "note": "2026-05-21 14:56 複盤時確認仍是未完成狀態，不得混入已完成清單。"
   }
 ]
