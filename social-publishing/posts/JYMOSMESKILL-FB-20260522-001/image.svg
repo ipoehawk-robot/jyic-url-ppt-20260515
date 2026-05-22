@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2160" height="2160" viewBox="0 0 2160 2160">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#F4FBFF"/>
+      <stop offset="0.52" stop-color="#E8F6F2"/>
+      <stop offset="1" stop-color="#FFF8EC"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="22" stdDeviation="24" flood-color="#0C3B4D" flood-opacity="0.16"/>
+    </filter>
+  </defs>
+  <rect width="2160" height="2160" fill="url(#bg)"/>
+  <rect x="96" y="96" width="1968" height="1968" rx="96" fill="#FFFFFF" opacity="0.78"/>
+  <rect x="156" y="156" width="1848" height="1848" rx="76" fill="none" stroke="#1B8E7E" stroke-width="10" opacity="0.35"/>
+
+  <g transform="translate(220,220)">
+    <rect x="0" y="0" width="590" height="88" rx="44" fill="#0F766E"/>
+    <text x="44" y="59" font-family="STHeiti, 'Hiragino Sans GB', sans-serif" font-size="42" font-weight="700" fill="#FFFFFF" letter-spacing="3">勁園AI檢定網</text>
+  </g>
+
+  <text x="220" y="520" font-family="STHeiti, 'Hiragino Sans GB', sans-serif" font-size="86" font-weight="800" fill="#0B3B4A">機工類技能檢定</text>
+  <text x="220" y="650" font-family="STHeiti, 'Hiragino Sans GB', sans-serif" font-size="128" font-weight="900" fill="#073B3A">先抓弱點</text>
+  <text x="220" y="795" font-family="STHeiti, 'Hiragino Sans GB', sans-serif" font-size="128" font-weight="900" fill="#073B3A">再安排複習</text>
+
+  <g filter="url(#shadow)">
+    <rect x="220" y="940" width="760" height="700" rx="64" fill="#FFFFFF"/>
+    <rect x="280" y="1010" width="640" height="64" rx="32" fill="#D9F4EE"/>
+    <rect x="280" y="1120" width="540" height="44" rx="22" fill="#E7EEF2"/>
+    <rect x="280" y="1210" width="610" height="44" rx="22" fill="#E7EEF2"/>
+    <rect x="280" y="1300" width="460" height="44" rx="22" fill="#E7EEF2"/>
+    <circle cx="330" cy="1450" r="44" fill="#13A68A"/>
+    <path d="M307 1448 l17 18 l39 -45" fill="none" stroke="#FFFFFF" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="410" y="1472" font-family="STHeiti, 'Hiragino Sans GB', sans-serif" font-size="46" fill="#0B3B4A" font-weight="700">錯題重練</text>
+  </g>
+
+  <g transform="translate(1090,980)" filter="url(#shadow)">
+    <rect x="0" y="0" width="760" height="620" rx="70" fill="#0F766E"/>
+    <circle cx="610" cy="135" r="72" fill="#F7C948" opacity="0.95"/>
+    <path d="M178 380 C260 250 355 455 450 330 C520 240 570 285 640 205" fill="none" stroke="#FFFFFF" stroke-width="26" stroke-linecap="round"/>
+    <circle cx="180" cy="380" r="22" fill="#FFFFFF"/>
+    <circle cx="450" cy="330" r="22" fill="#FFFFFF"/>
+    <circle cx="640" cy="205" r="22" fill="#FFFFFF"/>
+    <text x="90" y="520" font-family="STHeiti, 'Hiragino Sans GB', sans-serif" font-size="52" font-weight="800" fill="#FFFFFF">題庫 × 測驗 × 解析</text>
+  </g>
+
+  <g transform="translate(220,1745)">
+    <rect x="0" y="0" width="1720" height="170" rx="52" fill="#083C46"/>
+    <text x="70" y="72" font-family="STHeiti, 'Hiragino Sans GB', sans-serif" font-size="44" font-weight="700" fill="#D9F4EE">考前不用盲刷：用題庫找出常錯觀念</text>
+    <text x="70" y="130" font-family="STHeiti, 'Hiragino Sans GB', sans-serif" font-size="38" font-weight="600" fill="#FFFFFF">立即前往勁園AI檢定網查看適合你的檢定資源</text>
+  </g>
+</svg>
