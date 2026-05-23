@@ -102,5 +102,20 @@
     "riskLevel": "綠燈低風險",
     "postUrl": "",
     "note": "2026-05-21 14:56 複盤時確認仍是未完成狀態，不得混入已完成清單。"
+  },
+  {
+    "id": "JYMOSMESKILL-FB-20260523-001",
+    "title": "食品類技能檢定｜考前練題，抓出觀念弱點",
+    "captionUrl": "posts/JYMOSMESKILL-FB-20260523-001/caption.txt",
+    "imageUrl": "posts/JYMOSMESKILL-FB-20260523-001/image.png",
+    "publishedAt": "2026-05-23 21:00",
+    "pageName": "勁園AI檢定網",
+    "platform": "Facebook",
+    "status": "送審中；未完成發布：已產生圖文素材並送審，等待 @Jason_wenwen_bot 明確同意後才可 Facebook 正式發布",
+    "riskLevel": "綠燈低風險",
+    "postUrl": "",
+    "hasImage": true,
+    "verification": "posts/JYMOSMESKILL-FB-20260523-001/verify.json",
+    "note": "依 2026-05-23 21:00 最高規則：送審與正式發文皆必須先圖後文；文文明確同意前不得發布。"
   }
 ]
