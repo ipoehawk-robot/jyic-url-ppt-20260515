@@ -1,0 +1,104 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2160" height="2160" viewBox="0 0 2160 2160">
+  <defs>
+    <radialGradient id="glow" cx="78%" cy="18%" r="75%">
+      <stop offset="0" stop-color="#176f75"/>
+      <stop offset="0.45" stop-color="#083f45"/>
+      <stop offset="1" stop-color="#041f25"/>
+    </radialGradient>
+    <linearGradient id="gold" x1="0" x2="1"><stop offset="0" stop-color="#ffd27a"/><stop offset="1" stop-color="#ff9f35"/></linearGradient>
+    <linearGradient id="screen" x1="0" x2="1" y1="0" y2="1"><stop offset="0" stop-color="#fbfffb"/><stop offset="1" stop-color="#dfeeea"/></linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="28" stdDeviation="25" flood-color="#000" flood-opacity="0.42"/></filter>
+    <filter id="soft"><feGaussianBlur stdDeviation="18"/></filter>
+    <style>
+      .sans{font-family:'STHeiti','Hiragino Sans GB','PingFang TC','Noto Sans CJK TC',sans-serif;font-weight:700;}
+      .light{font-family:'STHeiti','Hiragino Sans GB','PingFang TC',sans-serif;font-weight:400;}
+      .serif{font-family:'Songti SC','Songti TC','STSong',serif;font-weight:900;}
+      .white{fill:#fffdf5}.mint{fill:#94ded2}.gold{fill:url(#gold)}.teal{fill:#0b6467}
+    </style>
+  </defs>
+  <rect width="2160" height="2160" fill="url(#glow)"/>
+  <circle cx="1810" cy="330" r="430" fill="#2bc6c3" opacity="0.08" filter="url(#soft)"/>
+  <circle cx="230" cy="1860" r="330" fill="#f2a93c" opacity="0.08" filter="url(#soft)"/>
+
+  <!-- network pattern -->
+  <g opacity="0.34" stroke="#7bdcd5" stroke-width="3" fill="#9be7df">
+    <path d="M90 1130 L240 1015 L410 1108 L570 990 L760 1088 L920 960 L1110 1045 L1280 925 L1450 1025 L1620 880 L1810 975 L2000 845" fill="none"/>
+    <path d="M1320 560 L1460 460 L1588 545 L1740 430 L1890 540 L2010 402" fill="none"/>
+    <g><circle cx="90" cy="1130" r="8"/><circle cx="240" cy="1015" r="8"/><circle cx="410" cy="1108" r="8"/><circle cx="570" cy="990" r="8"/><circle cx="760" cy="1088" r="8"/><circle cx="920" cy="960" r="8"/><circle cx="1110" cy="1045" r="8"/><circle cx="1280" cy="925" r="8"/><circle cx="1450" cy="1025" r="8"/><circle cx="1620" cy="880" r="8"/><circle cx="1810" cy="975" r="8"/><circle cx="2000" cy="845" r="8"/></g>
+    <g><circle cx="1320" cy="560" r="7"/><circle cx="1460" cy="460" r="7"/><circle cx="1588" cy="545" r="7"/><circle cx="1740" cy="430" r="7"/><circle cx="1890" cy="540" r="7"/><circle cx="2010" cy="402" r="7"/></g>
+  </g>
+
+  <!-- logo -->
+  <g transform="translate(105 105)">
+    <circle r="58" fill="none" stroke="#fffdf5" stroke-width="7"/>
+    <path d="M0 45 C-10 10 -38 -15 -45 -42 M0 45 C0 5 0 -24 0 -48 M0 45 C10 10 38 -15 45 -42 M0 20 C-20 0 -30 -22 -25 -45 M0 20 C20 0 30 -22 25 -45" fill="none" stroke="#fffdf5" stroke-width="6" stroke-linecap="round"/>
+    <circle cx="-45" cy="-42" r="7"/><circle cx="0" cy="-48" r="7"/><circle cx="45" cy="-42" r="7"/><circle cx="-25" cy="-45" r="6"/><circle cx="25" cy="-45" r="6"/>
+  </g>
+  <text x="205" y="132" font-size="64" class="sans white">勁園</text>
+  <text x="360" y="132" font-size="64" class="sans mint">AI</text>
+  <text x="460" y="132" font-size="64" class="sans white">檢定網</text>
+
+  <!-- Main copy -->
+  <text x="105" y="438" font-size="205" class="serif white">資訊類</text>
+  <text x="690" y="438" font-size="205" class="serif gold">技能檢定</text>
+  <line x1="115" y1="612" x2="305" y2="612" stroke="#f9b34e" stroke-width="6"/>
+  <circle cx="335" cy="612" r="8" fill="#f9b34e"/>
+  <text x="385" y="638" font-size="72" class="sans white">先練題庫，再抓出觀念盲點</text>
+  <circle cx="1442" cy="612" r="8" fill="#f9b34e"/>
+  <line x1="1472" y1="612" x2="1665" y2="612" stroke="#f9b34e" stroke-width="6"/>
+
+  <!-- Feature icons -->
+  <g class="sans" fill="#fffdf5" text-anchor="middle">
+    <g transform="translate(180 795)"><circle r="66" fill="none" stroke="#86d9d0" stroke-width="3"/><path d="M0 -43 L40 -20 L30 37 L0 57 L-30 37 L-40 -20 Z" fill="none" stroke="#86d9d0" stroke-width="6"/><path d="M-20 0 L-5 18 L28 -22" fill="none" stroke="#86d9d0" stroke-width="9" stroke-linecap="round"/><text y="150" font-size="38">重點整理</text><text y="198" font-size="31" class="light">系統化學習</text></g>
+    <g transform="translate(525 795)"><circle r="66" fill="none" stroke="#86d9d0" stroke-width="3"/><circle r="43" fill="none" stroke="#86d9d0" stroke-width="7"/><line x1="-59" x2="59" stroke="#86d9d0" stroke-width="5"/><line y1="-59" y2="59" stroke="#86d9d0" stroke-width="5"/><text y="150" font-size="38">精準練題</text><text y="198" font-size="31" class="light">掌握命題方向</text></g>
+    <g transform="translate(870 795)"><circle r="66" fill="none" stroke="#86d9d0" stroke-width="3"/><rect x="-42" y="8" width="22" height="42" fill="#86d9d0"/><rect x="-8" y="-12" width="22" height="62" fill="#86d9d0"/><rect x="26" y="-38" width="22" height="88" fill="#86d9d0"/><text y="150" font-size="38">AI 智能分析</text><text y="198" font-size="31" class="light">找出弱點強化</text></g>
+    <g transform="translate(1235 795)"><circle r="66" fill="none" stroke="#86d9d0" stroke-width="3"/><rect x="-37" y="-50" width="74" height="100" rx="9" fill="none" stroke="#86d9d0" stroke-width="7"/><path d="M-18 -4 L-5 12 L23 -25" fill="none" stroke="#86d9d0" stroke-width="8" stroke-linecap="round"/><text y="150" font-size="38">模擬測驗</text><text y="198" font-size="31" class="light">考前實戰演練</text></g>
+  </g>
+
+  <!-- checklist clipboard -->
+  <g filter="url(#shadow)" transform="translate(95 1285) rotate(-3)">
+    <rect width="670" height="520" rx="32" fill="#f1f4ef" stroke="#a8b4ae" stroke-width="5"/>
+    <text x="130" y="110" font-size="56" class="sans" fill="#236263">資訊檢定清單</text>
+    <text x="133" y="150" font-size="23" class="light" fill="#6c7775">CERTIFICATION CHECKLIST</text>
+    <g class="sans" font-size="37" fill="#415354">
+      <g transform="translate(75 205)"><rect width="42" height="42" fill="none" stroke="#159078" stroke-width="5"/><path d="M9 22 L20 34 L40 7" fill="none" stroke="#159078" stroke-width="6"/><text x="75" y="34">學科題庫練習</text></g>
+      <g transform="translate(75 270)"><rect width="42" height="42" fill="none" stroke="#159078" stroke-width="5"/><path d="M9 22 L20 34 L40 7" fill="none" stroke="#159078" stroke-width="6"/><text x="75" y="34">錯題回看</text></g>
+      <g transform="translate(75 335)"><rect width="42" height="42" fill="none" stroke="#159078" stroke-width="5"/><path d="M9 22 L20 34 L40 7" fill="none" stroke="#159078" stroke-width="6"/><text x="75" y="34">解析整理</text></g>
+      <g transform="translate(75 400)"><rect width="42" height="42" fill="none" stroke="#159078" stroke-width="5"/><path d="M9 22 L20 34 L40 7" fill="none" stroke="#159078" stroke-width="6"/><text x="75" y="34">模擬測驗</text></g>
+    </g>
+  </g>
+
+  <!-- tablet / quiz UI -->
+  <g filter="url(#shadow)">
+    <ellipse cx="1475" cy="1840" rx="520" ry="90" fill="#000" opacity="0.32"/>
+    <path d="M1070 1015 L1945 1150 L1810 1815 L885 1640 Z" fill="#142327" stroke="#45767a" stroke-width="9"/>
+    <path d="M1145 1100 L1850 1208 L1742 1684 L1012 1552 Z" fill="url(#screen)" stroke="#9bc9c3" stroke-width="5"/>
+    <path d="M1145 1100 L1850 1208 L1819 1340 L1113 1230 Z" fill="#07585d"/>
+    <text x="1208" y="1165" font-size="41" class="sans white">練習題</text>
+    <text x="1710" y="1243" font-size="30" class="sans white">1 / 40</text>
+    <text x="1145" y="1305" font-size="37" class="sans" fill="#21383b">資訊類檢定複習時，最適合先確認哪一項？</text>
+    <g font-size="31" class="sans" fill="#2d4a4d">
+      <rect x="1095" y="1366" width="650" height="54" rx="27" fill="#f8fbfa"/><text x="1128" y="1405">A　只看答案，不回頭檢討</text>
+      <rect x="1082" y="1444" width="670" height="56" rx="28" fill="#d5eee8"/><text x="1118" y="1483">B　用題庫找出常錯觀念</text><circle cx="1705" cy="1472" r="23" fill="#178c7d"/><path d="M1693 1471 L1704 1483 L1720 1455" fill="none" stroke="#fff" stroke-width="6" stroke-linecap="round"/>
+      <rect x="1068" y="1522" width="650" height="54" rx="27" fill="#f8fbfa"/><text x="1102" y="1561">C　考前才一次背完</text>
+      <rect x="1055" y="1600" width="650" height="54" rx="27" fill="#f8fbfa"/><text x="1088" y="1639">D　忽略解析直接下一題</text>
+    </g>
+    <rect x="1030" y="1685" width="675" height="130" rx="24" fill="#e1f0ed"/>
+    <text x="1070" y="1730" font-size="34" class="sans" fill="#08736f">解析</text>
+    <text x="1070" y="1780" font-size="29" class="light" fill="#355b5e">先從錯題與解析回推觀念，能更快安排下一輪複習。</text>
+  </g>
+
+  <!-- CTA bar -->
+  <g transform="translate(92 1900)">
+    <rect width="1425" height="178" rx="43" fill="#07565a"/>
+    <circle cx="94" cy="89" r="70" fill="none" stroke="#8bdad3" stroke-width="3"/>
+    <path d="M62 75 L96 53 L130 75 L96 97 Z" fill="#ffb448"/><path d="M75 86 L75 114 Q96 130 119 114 L119 86" fill="#ffb448"/>
+    <text x="250" y="66" font-size="50" class="sans white">掌握重點 × 智能練題 × 高效備考</text>
+    <text x="250" y="138" font-size="60" class="sans white">一次到位，</text><text x="585" y="138" font-size="60" class="sans gold">證照到手！</text>
+  </g>
+  <g class="sans" text-anchor="middle" fill="#ffbb57">
+    <text x="1745" y="1958" font-size="44">★★★★</text>
+    <text x="1745" y="2030" font-size="54">專業學習資源</text>
+    <text x="1745" y="2092" font-size="54">助你穩穩複習</text>
+  </g>
+</svg>
