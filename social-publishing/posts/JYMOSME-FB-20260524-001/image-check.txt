@@ -1,0 +1,4 @@
+/Users/jasonchen/.openclaw/workspace/jyic-url-ppt-gh/social-publishing/posts/JYMOSME-FB-20260524-001/image.png: PNG image data, 2048 x 2048, 8-bit/color RGB, non-interlaced
+/Users/jasonchen/.openclaw/workspace/jyic-url-ppt-gh/social-publishing/posts/JYMOSME-FB-20260524-001/image.png
+  pixelWidth: 2048
+  pixelHeight: 2048
